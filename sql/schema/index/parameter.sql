@@ -1,0 +1,1 @@
+CREATE INDEX IF NOT EXISTS idx_parameter_01 ON ${schema:raw}.parameter(id, is_active, is_deleted, record_type_id);

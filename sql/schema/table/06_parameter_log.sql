@@ -1,0 +1,1 @@
+SELECT ${schema:raw}.fn_create_log_table('${schema:raw}.parameter', true, true, '{updated_at}');

@@ -1,0 +1,3 @@
+-   Ao iniciar uma nova SEASON de jogos é rodado o programa e é feita uma chamada na API da Opta, puxando um JSON com todos os dados.
+-   Tais dados são salvos no Database na tabela "api_data" dentro da coluna "doc_record".
+-
